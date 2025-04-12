@@ -1,0 +1,14 @@
+C:\Users\zyypj\RiderProjects\CliperBot\CliperBot\bin\Debug\net9.0\CliperBot.exe
+C:\Users\zyypj\RiderProjects\CliperBot\CliperBot\bin\Debug\net9.0\CliperBot.deps.json
+C:\Users\zyypj\RiderProjects\CliperBot\CliperBot\bin\Debug\net9.0\CliperBot.runtimeconfig.json
+C:\Users\zyypj\RiderProjects\CliperBot\CliperBot\bin\Debug\net9.0\CliperBot.dll
+C:\Users\zyypj\RiderProjects\CliperBot\CliperBot\bin\Debug\net9.0\CliperBot.pdb
+C:\Users\zyypj\RiderProjects\CliperBot\CliperBot\obj\Debug\net9.0\CliperBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zyypj\RiderProjects\CliperBot\CliperBot\obj\Debug\net9.0\CliperBot.AssemblyInfoInputs.cache
+C:\Users\zyypj\RiderProjects\CliperBot\CliperBot\obj\Debug\net9.0\CliperBot.AssemblyInfo.cs
+C:\Users\zyypj\RiderProjects\CliperBot\CliperBot\obj\Debug\net9.0\CliperBot.csproj.CoreCompileInputs.cache
+C:\Users\zyypj\RiderProjects\CliperBot\CliperBot\obj\Debug\net9.0\CliperBot.dll
+C:\Users\zyypj\RiderProjects\CliperBot\CliperBot\obj\Debug\net9.0\refint\CliperBot.dll
+C:\Users\zyypj\RiderProjects\CliperBot\CliperBot\obj\Debug\net9.0\CliperBot.pdb
+C:\Users\zyypj\RiderProjects\CliperBot\CliperBot\obj\Debug\net9.0\CliperBot.genruntimeconfig.cache
+C:\Users\zyypj\RiderProjects\CliperBot\CliperBot\obj\Debug\net9.0\ref\CliperBot.dll
