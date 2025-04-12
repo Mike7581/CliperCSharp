@@ -1,0 +1,14 @@
+C:\Users\Mike\Documents\C#\CliperCSharp\CliperCSharp\bin\Debug\net9.0-windows\CliperCSharp.exe
+C:\Users\Mike\Documents\C#\CliperCSharp\CliperCSharp\bin\Debug\net9.0-windows\CliperCSharp.deps.json
+C:\Users\Mike\Documents\C#\CliperCSharp\CliperCSharp\bin\Debug\net9.0-windows\CliperCSharp.runtimeconfig.json
+C:\Users\Mike\Documents\C#\CliperCSharp\CliperCSharp\bin\Debug\net9.0-windows\CliperCSharp.dll
+C:\Users\Mike\Documents\C#\CliperCSharp\CliperCSharp\bin\Debug\net9.0-windows\CliperCSharp.pdb
+C:\Users\Mike\Documents\C#\CliperCSharp\CliperCSharp\obj\Debug\net9.0-windows\CliperCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Documents\C#\CliperCSharp\CliperCSharp\obj\Debug\net9.0-windows\CliperCSharp.AssemblyInfoInputs.cache
+C:\Users\Mike\Documents\C#\CliperCSharp\CliperCSharp\obj\Debug\net9.0-windows\CliperCSharp.AssemblyInfo.cs
+C:\Users\Mike\Documents\C#\CliperCSharp\CliperCSharp\obj\Debug\net9.0-windows\CliperCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\C#\CliperCSharp\CliperCSharp\obj\Debug\net9.0-windows\CliperCSharp.dll
+C:\Users\Mike\Documents\C#\CliperCSharp\CliperCSharp\obj\Debug\net9.0-windows\refint\CliperCSharp.dll
+C:\Users\Mike\Documents\C#\CliperCSharp\CliperCSharp\obj\Debug\net9.0-windows\CliperCSharp.pdb
+C:\Users\Mike\Documents\C#\CliperCSharp\CliperCSharp\obj\Debug\net9.0-windows\CliperCSharp.genruntimeconfig.cache
+C:\Users\Mike\Documents\C#\CliperCSharp\CliperCSharp\obj\Debug\net9.0-windows\ref\CliperCSharp.dll
